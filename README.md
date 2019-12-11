@@ -14,6 +14,8 @@ $ tmsh load sys config verify merge file /config/sVen_Device-DoS_15_1.conf
 and when succesfull: 
 $ tmsh load sys config merge file /config/sVen_device-DoS_15_1.conf
 
+For the bad_ACK vector you need to add your vlans.
+
 =========================================================================
 
 
