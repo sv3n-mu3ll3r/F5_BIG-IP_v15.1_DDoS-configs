@@ -6,8 +6,9 @@ I use this configs as a start for new depleyments.
 
 sVen_Device-DoS_15_1.conf: 
 This file contains a startup Device-DoS config for BIG-IP L3/4 DDoS (AFM/DHD).
-It was created on TMOS version 15.1
+
 For the bad_ACK vector you need to add your vlans.
+It was created on TMOS version 15.1
 
 =========================================================================
 
