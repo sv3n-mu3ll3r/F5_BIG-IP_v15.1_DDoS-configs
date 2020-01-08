@@ -48,6 +48,7 @@ This file contains fastL4 profiles for TMOS version 15.1:
 =========================================================================
 
 You can simply merge the config snippet by using the 'tmsh merge' command.
+
 Example: 
 
 $ tmsh load sys config verify merge file /config/sVen_Device-DoS_15_1.conf
