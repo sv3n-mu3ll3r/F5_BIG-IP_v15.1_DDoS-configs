@@ -1,4 +1,4 @@
-BIG-IP_DDoS-config
+BIG-IP_DDoS-config Version 1.0
 this repository contains F5 BIG-IP DDoS startup configs. 
 I use this configs as a start for new depleyments.
 
